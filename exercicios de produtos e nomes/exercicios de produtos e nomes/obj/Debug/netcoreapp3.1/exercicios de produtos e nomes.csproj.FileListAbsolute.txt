@@ -1,0 +1,14 @@
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\obj\Debug\netcoreapp3.1\exercicios de produtos e nomes.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\obj\Debug\netcoreapp3.1\exercicios de produtos e nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\obj\Debug\netcoreapp3.1\exercicios de produtos e nomes.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\obj\Debug\netcoreapp3.1\exercicios de produtos e nomes.AssemblyInfo.cs
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\obj\Debug\netcoreapp3.1\exercicios de produtos e nomes.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\bin\Debug\netcoreapp3.1\exercicios de produtos e nomes.exe
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\bin\Debug\netcoreapp3.1\exercicios de produtos e nomes.deps.json
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\bin\Debug\netcoreapp3.1\exercicios de produtos e nomes.runtimeconfig.json
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\bin\Debug\netcoreapp3.1\exercicios de produtos e nomes.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\bin\Debug\netcoreapp3.1\exercicios de produtos e nomes.dll
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\bin\Debug\netcoreapp3.1\exercicios de produtos e nomes.pdb
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\obj\Debug\netcoreapp3.1\exercicios de produtos e nomes.dll
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\obj\Debug\netcoreapp3.1\exercicios de produtos e nomes.pdb
+C:\Users\joaop\source\repos\exercicios de produtos e nomes\exercicios de produtos e nomes\obj\Debug\netcoreapp3.1\exercicios de produtos e nomes.genruntimeconfig.cache
