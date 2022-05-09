@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\bin\Debug\netcoreapp3.1\exercicios de classes parte 3.exe
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\bin\Debug\netcoreapp3.1\exercicios de classes parte 3.deps.json
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\bin\Debug\netcoreapp3.1\exercicios de classes parte 3.runtimeconfig.json
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\bin\Debug\netcoreapp3.1\exercicios de classes parte 3.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\bin\Debug\netcoreapp3.1\exercicios de classes parte 3.dll
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\bin\Debug\netcoreapp3.1\exercicios de classes parte 3.pdb
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\obj\Debug\netcoreapp3.1\exercicios de classes parte 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\obj\Debug\netcoreapp3.1\exercicios de classes parte 3.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\obj\Debug\netcoreapp3.1\exercicios de classes parte 3.AssemblyInfo.cs
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\obj\Debug\netcoreapp3.1\exercicios de classes parte 3.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\obj\Debug\netcoreapp3.1\exercicios de classes parte 3.dll
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\obj\Debug\netcoreapp3.1\exercicios de classes parte 3.pdb
+C:\Users\joaop\source\repos\exercicios de classes parte 3\exercicios de classes parte 3\obj\Debug\netcoreapp3.1\exercicios de classes parte 3.genruntimeconfig.cache

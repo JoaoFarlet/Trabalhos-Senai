@@ -1,0 +1,14 @@
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\obj\Debug\netcoreapp3.1\exercicios de classes.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\obj\Debug\netcoreapp3.1\exercicios de classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\obj\Debug\netcoreapp3.1\exercicios de classes.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\obj\Debug\netcoreapp3.1\exercicios de classes.AssemblyInfo.cs
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\obj\Debug\netcoreapp3.1\exercicios de classes.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\bin\Debug\netcoreapp3.1\exercicios de classes.exe
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\bin\Debug\netcoreapp3.1\exercicios de classes.deps.json
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\bin\Debug\netcoreapp3.1\exercicios de classes.runtimeconfig.json
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\bin\Debug\netcoreapp3.1\exercicios de classes.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\bin\Debug\netcoreapp3.1\exercicios de classes.dll
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\bin\Debug\netcoreapp3.1\exercicios de classes.pdb
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\obj\Debug\netcoreapp3.1\exercicios de classes.dll
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\obj\Debug\netcoreapp3.1\exercicios de classes.pdb
+C:\Users\joaop\source\repos\exercicios de classes\exercicios de classes\obj\Debug\netcoreapp3.1\exercicios de classes.genruntimeconfig.cache
