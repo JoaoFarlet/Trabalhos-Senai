@@ -1,0 +1,14 @@
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\obj\Debug\netcoreapp3.1\Atividade de Listas e Construtor.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\obj\Debug\netcoreapp3.1\Atividade de Listas e Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\obj\Debug\netcoreapp3.1\Atividade de Listas e Construtor.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\obj\Debug\netcoreapp3.1\Atividade de Listas e Construtor.AssemblyInfo.cs
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\obj\Debug\netcoreapp3.1\Atividade de Listas e Construtor.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\bin\Debug\netcoreapp3.1\Atividade de Listas e Construtor.exe
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\bin\Debug\netcoreapp3.1\Atividade de Listas e Construtor.deps.json
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\bin\Debug\netcoreapp3.1\Atividade de Listas e Construtor.runtimeconfig.json
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\bin\Debug\netcoreapp3.1\Atividade de Listas e Construtor.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\bin\Debug\netcoreapp3.1\Atividade de Listas e Construtor.dll
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\bin\Debug\netcoreapp3.1\Atividade de Listas e Construtor.pdb
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\obj\Debug\netcoreapp3.1\Atividade de Listas e Construtor.dll
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\obj\Debug\netcoreapp3.1\Atividade de Listas e Construtor.pdb
+C:\Users\joaop\source\repos\Atividade de Listas e Construtor\Atividade de Listas e Construtor\obj\Debug\netcoreapp3.1\Atividade de Listas e Construtor.genruntimeconfig.cache

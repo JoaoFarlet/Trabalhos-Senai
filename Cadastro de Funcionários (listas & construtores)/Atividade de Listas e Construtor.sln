@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade de Listas e Construtor", "Atividade de Listas e Construtor\Atividade de Listas e Construtor.csproj", "{BBEDA5E2-49DD-4805-8B6E-2B68F80AF1C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEDA5E2-49DD-4805-8B6E-2B68F80AF1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEDA5E2-49DD-4805-8B6E-2B68F80AF1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEDA5E2-49DD-4805-8B6E-2B68F80AF1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEDA5E2-49DD-4805-8B6E-2B68F80AF1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69B0225-034C-4579-A6D5-98CA9F8DF789}
+	EndGlobalSection
+EndGlobal
